@@ -12,6 +12,8 @@
     <br />
     
    <h2>Demo</h2>
+  <a href='https://netflix-clone-854cd.web.app/'> https://netflix-clone-854cd.web.app/</a>
+   
 
    <h5>Mobile version</h5>
 
